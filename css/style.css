@@ -722,6 +722,7 @@ a {
   border-bottom: 1px solid #eee;
   background: #fff;
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 .archives-wrap .archive-year-wrap {
   line-height: 35px;
@@ -1320,6 +1321,7 @@ a {
   border-bottom: 1px solid #eee;
   background: #fff;
   margin-bottom: 20px;
+  margin-top: 20px;
 }
 .archives-wrap .archive-year-wrap {
   line-height: 35px;
@@ -1649,6 +1651,7 @@ pre .javascript .function {
 }
 #page-nav {
   text-align: center;
+  margin-top: 20px;
 }
 #page-nav .page-number {
   width: 20px;
